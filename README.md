@@ -1,1 +1,3 @@
-# hidin
+# hidin: Human Interface Device
+
+#...Sistema e instrumento de noise, improvisación y sampling creado con el objeto [hidin] en Pure Data y un joystick genérico, el cual, nos permite interactuar con el ordenador, sus parámetros psicoacústicos y su memoria sonora, creada a partir de grabaciones, composiciones electroacústicas y micro-composiciones...
